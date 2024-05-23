@@ -19,33 +19,26 @@ This project is a full-stack application designed to manage and query soccer pla
 
 ## Installation
 1. Clone the repository
-
-bash
-Copy code
 `git clone https://github.com/alvaradoarturo/soccer-stats-database.git
 cd soccer-stats-database`
 
 2. Install backend dependencies
-
-bash
-Copy code
 `npm install`
-Configure MySQL Database
 
-3. Create a MySQL database named SoccerPlayerProps.
+3. Configure MySQL Database
+- Create a MySQL database named SoccerPlayerProps.
 - Import the provided SQL file to create the necessary tables and seed data.
-- Update Database Configuration
 
-Update the MySQL connection settings in server.js with your MySQL username and password.
-Start the Backend Server
+4. Update Database Configuration
+- Update the MySQL connection settings in server.js with your MySQL username and password.
 
-bash
-Copy code
-node server.js
-Open the Application
+5. Start the Backend Server
+`node server.js`
 
-Open index.html in your browser to start using the application.
-Usage
+6. Open the Application
+- Open index.html in your browser to start using the application.
+
+## Usage
 Adding Players: Navigate to the "Add Player" page, fill out the form, and submit to add a new player to the database.
 Searching Players: Use the search interface to filter players by country, team, position, and sort by goals or assists.
 API Endpoints
