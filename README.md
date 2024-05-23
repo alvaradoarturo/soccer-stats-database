@@ -38,22 +38,5 @@ cd soccer-stats-database`
 6. Open the Application
 - Open index.html in your browser to start using the application.
 
-## Usage
-Adding Players: Navigate to the "Add Player" page, fill out the form, and submit to add a new player to the database.
-Searching Players: Use the search interface to filter players by country, team, position, and sort by goals or assists.
-API Endpoints
-POST /add-player: Endpoint to add a new player to the database.
-GET /search-players: Endpoint to search for players based on specified criteria.
-GET /get-team-id: Endpoint to fetch team ID based on team name.
-Contributing
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Open a pull request
-License
-This project is licensed under the MIT License.
-
 Contact
-For any questions or feedback, please reach out to [aalva058@gmai.com].
+For any questions or feedback, please reach out to aalva058@gmai.com.
