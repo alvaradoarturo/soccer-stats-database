@@ -32,7 +32,7 @@ cd soccer-stats-database`
 4. Update Database Configuration
 - Update the MySQL connection settings in server.js with your MySQL username and password.
 
-5. Start the Backend Server
+5. Start the Backend Server  
 `node server.js`
 
 6. Open the Application
