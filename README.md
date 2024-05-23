@@ -18,11 +18,11 @@ This project is a full-stack application designed to manage and query soccer pla
 - Middleware: CORS and body-parser for handling cross-origin requests and parsing request bodies
 
 ## Installation
-1. Clone the repository
+1. Clone the repository  
 `git clone https://github.com/alvaradoarturo/soccer-stats-database.git
 cd soccer-stats-database`
 
-2. Install backend dependencies
+2. Install backend dependencies  
 `npm install`
 
 3. Configure MySQL Database
