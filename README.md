@@ -10,6 +10,8 @@ This project is a full-stack application designed to manage and query soccer pla
 - Backend: Node.js server with Express framework to handle API requests, manage database interactions, and serve the frontend.
 - Frontend: HTML, CSS, and JavaScript for a simple and interactive user interface.
 
+![Project Langing Page](images/landing_page.png)
+
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
