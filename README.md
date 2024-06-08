@@ -3,7 +3,7 @@ This project is a full-stack application designed to manage and query soccer pla
 
 ## Features
 - Add Player: A form to add new players to the database, capturing details such as player name, team, position, goals, assists, and nationality.
-- Update Player: A form to add update players in the database using details such as player name, team, goals, assists, and nationality.
+- Update Player: A form to update players in the database using details such as player name, team, goals, assists, and nationality.
 - Delete Player: A form to delete players in the database using details such as player name, team, and nationality.
 - Search Players: A search interface with dropdown menus to filter players by country, team, position, and sort results by most goals or assists.
 - Database: MySQL database to store detailed information about players, teams, leagues, and national teams.
@@ -39,4 +39,4 @@ cd soccer-stats-database`
 - Open index.html in your browser to start using the application.
 
 Contact
-For any questions or feedback, please reach out to aalva058@gmai.com.
+For any questions or feedback, please reach out to aalva058@gmail.com.
