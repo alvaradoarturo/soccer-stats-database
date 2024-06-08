@@ -11,6 +11,7 @@ This project is a full-stack application designed to manage and query soccer pla
 - Frontend: HTML, CSS, and JavaScript for a simple and interactive user interface.
 
 ![Project Langing Page](images/landing_page.png)
+![Project Langing Page](images/search_page.png)
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
